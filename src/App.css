@@ -1,0 +1,15 @@
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 500px;
+  box-shadow: 0 0 50px rgb(0, 0, 0, 0.5);
+  border-radius: 15px;
+  overflow: hidden;
+}
